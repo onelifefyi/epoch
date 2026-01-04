@@ -1,0 +1,5 @@
+100 Page ML Book:
+
+1.1 What's ML?
+- Algorithms relying on a collection of some phenomenon (examples can be from nature, handcrafted or generated)
+- It's process of solving a problem by 1) gathering a dataset 2) Build statistical model based on the data (assumption to be used to solve practical problem)
